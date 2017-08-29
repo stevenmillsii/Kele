@@ -45,7 +45,7 @@ class Kele
         "assignment_branch": assignment_branch,
         "assignment_commit_link": assignment_commit_link,
         "comment": comment,
-        "enrollment_id": enrollment_id
+        "enrollment_id": 28207
       },
       headers: { "authorization" => @auth_token })
   end
